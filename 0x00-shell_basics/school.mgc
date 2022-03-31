@@ -1,0 +1,4 @@
+#!/bin/bash
+school.mgc
+echo 'o string SCHOOL school data'
+echo '!:mime school'
